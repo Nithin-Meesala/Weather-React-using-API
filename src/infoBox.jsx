@@ -51,7 +51,7 @@ if(error){
 return(
       
     <div className="Info-Box">
-        <h3 style={{color: "white"}}>Weather Info - {info.weather}</h3>
+        <h3 style={{color: "white"}}>Weather INFO - {info.weather}</h3>
         <div className="InfoBox">  
 
         <Card sx={{ maxWidth: 345 }}>
