@@ -23,7 +23,7 @@ export default function WeatherApp(){
     return (
         <store.Provider value={[error,setError]}>
 
-        <div><h2 style={{color:"white"}}>Weather App Using Rect</h2></div>
+        <div><h2 style={{color:"white"}}>Weather App Using React</h2></div>
         <SearchBox updateinfo={updateinfo}></SearchBox>
         <InfoBox info={weatherinfo}></InfoBox>
 
