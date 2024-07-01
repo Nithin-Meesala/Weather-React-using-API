@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Access the live Project on the following link:
-https://weather-reactapp-using-frwsmq9gu-meesala-nithins-projects.vercel.app/
+[https://weather-reactapp-using-frwsmq9gu-meesala-nithins-projects.vercel.app/](https://weatherreactapi.vercel.app/)
